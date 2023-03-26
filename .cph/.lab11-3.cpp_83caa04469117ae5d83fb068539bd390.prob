@@ -1,0 +1,1 @@
+{"name":"Local: lab11-3","url":"c:\\Users\\Bannu\\Documents\\DAA Lab\\lab11-3.cpp","tests":[{"id":1667749285016,"input":"5\n8\n1 3 75\n3 4 51\n2 4 19\n3 2 95\n2 5 42\n5 4 31\n1 2 9\n3 5 66","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Bannu\\Documents\\DAA Lab\\lab11-3.cpp","group":"local","local":true}

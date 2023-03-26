@@ -1,0 +1,1 @@
+{"name":"Local: knapsack_dp","url":"c:\\Users\\Bannu\\Documents\\DAA Lab\\knapsack_dp.py","tests":[{"id":1669531848443,"input":"1 3 4 5\n1 2 3 4\n5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Bannu\\Documents\\DAA Lab\\knapsack_dp.py","group":"local","local":true}

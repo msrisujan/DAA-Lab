@@ -1,0 +1,1 @@
+{"name":"Local: lab13-1","url":"c:\\Users\\Bannu\\Documents\\DAA Lab\\lab13-1.py","tests":[{"id":1668152397305,"input":"5\na b c d e\n6\na-b\nb-c\nc-d\nd-e\ne-a\ne-b","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Bannu\\Documents\\DAA Lab\\lab13-1.py","group":"local","local":true}
